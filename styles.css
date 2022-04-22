@@ -1,0 +1,21 @@
+* {
+    background-color: purple;
+}
+
+
+h1 {
+    color: blue;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+
+}
+
+
+li {
+    background-color:purple;
+    color: blue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

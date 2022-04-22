@@ -1,0 +1,62 @@
+*{
+    background-color: aqua;
+}
+
+
+
+
+title{
+    font-size: 300px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+h1{
+    font-size: 200px;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:black;
+}
+
+h2{
+    font-size: 100px;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+p{
+    font-size: larger;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:black;
+}
+
+ul{
+    font-size: larger;
+    color: rebeccapurple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+ol{
+    font-size: larger;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+}
+
+li{
+    font-size: x-large;
+    color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkorchid;
+
+}
+
+
+
+
+
+
